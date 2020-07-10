@@ -1,0 +1,151 @@
+body {
+  margin: 0 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #abd3d6;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Gloria Hallelujah', cursive;
+  position: relative;
+  color: #204051;
+  font-size: 5.625em;
+  line-height: 2;
+}
+
+h2 {
+  color: #204051;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #204051;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #3b6978;
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e6f4f570;
+  border-width: 5px;
+  width: 5%;
+}
+
+.top-container {
+  background-color: #e6f4f5;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 10%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 50%;
+}
+
+.middle-container {
+  margin-top: 30px;
+}
+
+.introduction {
+  text-align: center;
+  width: 50%;
+  margin: 30px auto 40px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.painting-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #e6f4f5;
+  padding: 30px;
+}
+
+.bottom-hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-me {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+
+.btn-contact {
+  background-color: #3b6978;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  border-radius: 8px;
+  margin: 20px auto 70px auto;
+}
+
+.footer-link:link {
+  color: #3b6978;
+  text-decoration: none
+}
+
+.footer-link {
+  padding: 20px;
+}
+
+.footer-link:visited {
+  color: #abd3d6;
+}
+
+.footer-link:hover {
+  color: #204051;
+}
+
+.iconCredit {
+  display: inline;
+  font-size: 0.75em;
+}
+
+.Freepik:link {
+  color: #3b6978;
+  text-decoration: none;
+}
+
+.Freepik:hover {
+  color: #204051;
+}
+
+.trademark {
+  font-size: 1em;
+}
